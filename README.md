@@ -28,3 +28,6 @@ Yahan Postman mein banaye gaye endpoints ki jaankari hai, jisse aapki APIs ko te
 * `GET /payments/stats` - To get payment stats
 * `GET /users` - To get all users
 * `POST /users` - To create a new user
+
+  ## Video Demo
+  [Click here to watch the demo](https://drive.google.com/file/d/16Ob-T_3mQehHgddB0mpwUaFme5e_Nuik/view?usp=sharing)
